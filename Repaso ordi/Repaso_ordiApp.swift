@@ -17,8 +17,8 @@ struct Repaso_ordiApp: App {
             // deja SOLO UNA línea sin "//". Comenta (pon "//" al inicio)
             // la que está activa y quita el "//" de la que quieras ver.
 
-            // Práctica 1: red social con feed (carpeta facebook) ← ACTIVA
-            FBContentView()
+            // Práctica 1: red social con feed (carpeta facebook)
+            // FBContentView()
 
             // Práctica 2: fotos e historias (carpeta instagram)
             // IGContentView()
@@ -28,6 +28,9 @@ struct Repaso_ordiApp: App {
 
             // Práctica 4: mensajería (carpeta whatsapp)
             // WAContentView()
+
+            // Práctica 5: videos (carpeta youtube) ← ACTIVA
+            YTContentView()
 
             // Pokédex con la PokéAPI (carpeta pokedex)
             // PokedexView()
