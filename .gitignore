@@ -1,0 +1,16 @@
+# ---- Xcode ----
+# Datos de usuario de Xcode (estado de ventanas, breakpoints, esquemas personales)
+xcuserdata/
+*.xcuserstate
+# Carpetas de compilación
+DerivedData/
+build/
+# Archivos temporales
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ---- macOS ----
+.DS_Store
