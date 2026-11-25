@@ -29,8 +29,11 @@ struct Repaso_ordiApp: App {
             // Práctica 4: mensajería (carpeta whatsapp)
             // WAContentView()
 
-            // Práctica 5: videos (carpeta youtube) ← ACTIVA
-            YTContentView()
+            // Práctica 5: videos (carpeta youtube)
+            // YTContentView()
+
+            // Práctica 6: diseño SwiftUI (carpeta diseno) ← ACTIVA
+            DisenoContentView()
 
             // Pokédex con la PokéAPI (carpeta pokedex)
             // PokedexView()
