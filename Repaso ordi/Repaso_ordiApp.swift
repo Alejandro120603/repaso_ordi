@@ -35,8 +35,11 @@ struct Repaso_ordiApp: App {
             // Práctica 6: diseño SwiftUI (carpeta diseno)
             // DisenoContentView()
 
-            // Práctica 7: viajes (carpeta didi) ← ACTIVA
-            DDContentView()
+            // Práctica 7: viajes (carpeta didi)
+            // DDContentView()
+
+            // Caso A: Compendium (carpeta hyrule) ← ACTIVA
+            HyruleInicioView()
 
             // Pokédex con la PokéAPI (carpeta pokedex)
             // PokedexView()
